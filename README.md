@@ -19,9 +19,9 @@ SOMA = SOMA + K;
 
 imprimir(SOMA); 
 
-RESPOSTA: 91
-
 Ao final do processamento, qual será o valor da variável SOMA? 
+
+RESPOSTA: 91
 
 
 
